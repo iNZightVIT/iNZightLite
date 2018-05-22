@@ -1,0 +1,11 @@
+Package: iNZightLite
+Title: Run iNZight Lite locally using Docker
+Version: 0.0.1
+Authors@R: person("Tom", "Elliott", email = "tom.elliott@auckland.ac.nz", role = c("aut", "cre"))
+Description: To make running Lite localy a little easier for people who may not know command line, this package just wraps some simple Docker commands to get the Lite image running locally, and accessibly from a web browser.
+Depends: R (>= 3.0.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: utils

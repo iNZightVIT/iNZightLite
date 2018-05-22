@@ -1,6 +1,14 @@
 # iNZightLite: run iNZight Lite locally using Docker
 
-1. Download and istall Docker for your operating system: 
+## Install
+
+```{r}
+devtools::install_github('iNZightVIT/iNZightLite')
+```
+
+## Usage 
+
+1. Download and install Docker for your operating system: 
   - Windows: https://docs.docker.com/docker-for-windows/install/
   - Mac: https://docs.docker.com/docker-for-mac/install/
   - Linux (Ubuntu): https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce (others, find your own way)
